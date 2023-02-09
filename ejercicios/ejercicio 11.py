@@ -1,5 +1,5 @@
-numero= 1
-while numero<=100:
-    if numero % 2 ==0:
-        print(f"los numeros {numero} es par")
-    numero=numero+1
+numero_= 1
+while numero_<=100:
+    if numero_ % 2 ==0:
+        print(f"los numeros {numero_} es par")
+    numero_=numero_+1
