@@ -1,5 +1,5 @@
 import math
 print("ingrese el rdio del circulo:")
-r = float(input())
-a = math.pi * (r * r)
-print(f"el area del circulo con radio{r} es: {round(a,2)}")
+radio = float(input())
+area = math.pi * (radio * radio)
+print(f"el area del circulo con radio{radio} es: {round(area,2)}")
