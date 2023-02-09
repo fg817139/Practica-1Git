@@ -1,6 +1,6 @@
 print("ingrese el numero que desea comprobar")
-num = int(input())
-if num % 2 ==0:
-    print(f"el numero {num} es Par")
+numero = int(input())
+if numero % 2 ==0:
+    print(f"el numero {numero} es Par")
 else:
-    print(f"el numero {num} es Impar")
+    print(f"el numero {numero} es Impar")
